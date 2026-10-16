@@ -1,6 +1,6 @@
 # Chapter III supplementary materials
 
-This directory contains the supplementary materials associated with Chapter III, *Machine learning-aided prediction of microbial functions critical for anaerobic digestion performance*, of the PhD thesis of Sofia Fraulini.
+This directory contains the supplementary materials associated with Chapter III, **Machine learning-aided prediction of microbial functions critical for anaerobic digestion performance**.
 
 ## Contents
 
