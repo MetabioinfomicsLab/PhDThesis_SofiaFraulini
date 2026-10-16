@@ -1,11 +1,11 @@
 # Chapter IV supplementary materials
 
-This directory contains the supplementary materials for Chapter IV, *Modelling microbial genome–environment associations across ecological scales*.
+This directory contains the supplementary materials for Chapter IV, **Modelling microbial genome–environment associations across ecological scales**.
 
 ## Contents
 
-- `Supplementary_Information_IV.pdf`: supplementary methods, method tables IV-SM1–IV-SM6 and supplementary Figures IV-S1–IV-S5.
-- `Table_IV_S1.xlsx`: genome metadata, recalculated quality estimates, environmental annotations and dataset-inclusion information for the MAGs with OTU assignments considered during construction of the macro-environment dataset.
+- `Supplementary_Information_IV.pdf`: supplementary methods, method tables IV-SM1–IV-SM6 and supplementary figures IV-S1–IV-S5.
+- `Table_IV_S1.xlsx`: genome metadata, quality, environmental labels and taxonomic information for the MAGs with OTU assignments considered during construction of the macro-environment dataset.
 
 ## Supplementary figures
 
